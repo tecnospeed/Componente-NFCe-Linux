@@ -4,8 +4,6 @@ O Componente NFC-e da Tecnospeed é um aplicação Linux projetado para simplifi
 
 Para começar a usar este componente em seu aplicativo, basta instanciá-lo em seu projeto e implementar os métodos necessários de acordo com suas necessidades específicas.
 
-Este artigo irá fornecer todas as informações necessárias para baixar o componente e orienta você na implementação de métodos para emitir e imprimir notas fiscais eletrônicas de forma incrivelmente simples, clique aqui.
-
 **Este artigo irá fornecer todas as informações necessárias para baixar o componente e orienta você na implementação de métodos para emitir e imprimir notas fiscais eletrônicas de forma incrivelmente simples, [clique aqui](https://atendimento.tecnospeed.com.br/hc/pt-br/articles/24001223706135-Guia-Geral-Componente-NFC-e-Linux).**
 
 

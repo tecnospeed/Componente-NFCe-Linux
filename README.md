@@ -6,6 +6,9 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 
 Este artigo irá fornecer todas as informações necessárias para baixar o componente e orienta você na implementação de métodos para emitir e imprimir notas fiscais eletrônicas de forma incrivelmente simples, clique aqui.
 
+**Este artigo irá fornecer todas as informações necessárias para baixar o componente e orienta você na implementação de métodos para emitir e imprimir notas fiscais eletrônicas de forma incrivelmente simples, [clique aqui](https://atendimento.tecnospeed.com.br/hc/pt-br/articles/24001223706135-Guia-Geral-Componente-NFC-e-Linux).**
+
+
 **Para baixar a versão Trial:**  
 
 * [Componente NFCe Linux](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/nfce_linux_tecnoaccount_1.0.0.0 "Baixar o Componente NCFe Linux") 

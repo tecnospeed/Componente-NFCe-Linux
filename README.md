@@ -12,3 +12,5 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 * [Componente NFCe Linux](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/nfce_linux_tecnoaccount_1.0.0.0 "Baixar o Componente NCFe Linux") 
 
 * [SDK PYTHON](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/sdk_python_componente_nfce-1.0.0-py3-none-any.whl "Baixar o Componente NCFe Linux SDK PYTHON")
+
+* [SDK RUBY](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/tspd-nfce-1.0.0.gem "Baixar o Componente NCFe Linux SDK RUBY")

@@ -4,3 +4,5 @@
 - Lançado o SDK RUBY
 
 
+**Novidade**
+- Atualizando CI/CD da aplicação Linux

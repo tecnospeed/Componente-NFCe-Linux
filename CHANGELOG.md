@@ -6,6 +6,8 @@
 - Atualizando CI/CD da aplicação Linux
 **Novidade v**
 - Atualizando CI/CD da aplicação Linux
+**Novidade v**
+- Atualizando CI/CD da aplicação Linux
 
 
 **Novidade**

@@ -1,6 +1,3 @@
-**Novidade v1.0.1.2**
-
-- Atualizando CI/CD da aplicação Linux
 
 **Novidade**
 

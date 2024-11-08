@@ -1,3 +1,5 @@
+**Novidade v1.1.0.1**
+- Atualizando CI/CD da aplicação Linux
 
 **Novidade**
 - Lançamento do Componente NFCe Linux

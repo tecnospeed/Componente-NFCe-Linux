@@ -1,4 +1,5 @@
 
+
 **Novidade v1.0.2.1**
 
 - Atualizando CI/CD da aplicação Linux

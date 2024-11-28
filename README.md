@@ -15,4 +15,4 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 
 * [SDK RUBY](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/tspd-nfce-1.0.0.gem "Baixar SDK RUBY")
 
-* [SDK PHP](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/tecnospeed-sdk-php-componente-nfce-1.0.0.0.tar) "Baixar SDK PHP")
+* [SDK PHP](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/tecnospeed-sdk-php-componente-nfce-1.0.0.0.tar "Baixar SDK PHP")

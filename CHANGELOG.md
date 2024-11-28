@@ -1,4 +1,5 @@
-
+**Novidade**
+- Lançado o SDK PHP
 
 **Novidade v1.0.2.1**
 

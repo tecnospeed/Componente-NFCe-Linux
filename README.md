@@ -9,7 +9,7 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 
 **Para baixar a versão Trial:**  
 
-* [Componente NFCe Linux](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/nfce_linux_tecnoaccount_1.0.2.1 "Baixar o Componente NCFe Linux") 
+* [Componente NFCe Linux](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/nfce_linux_tecnoaccount_1.1.2_0 "Baixar o Componente NCFe Linux") 
 
 * [SDK PYTHON](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/sdk_python_componente_nfce-1.0.0-py3-none-any.whl "Baixar SDK PYTHON")
 

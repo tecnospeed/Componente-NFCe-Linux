@@ -1,4 +1,10 @@
-**Novidades v2.1.0.1**
+**Novidades v2.1.0.3**
+* [ODSML-36868](http://odoo.tecnospeed.local/odoo/project/40/tasks/36868) - NT 2026.006 - Adequado o XML da NFC-eGO para receber os dados de vinculacao da transacao de pagamento previstos na NT 2026.006.
+* [ODSML-36867](http://odoo.tecnospeed.local/odoo/project/40/tasks/36867) - NT 2026.006 - Implementados os eventos para vincular e cancelar transacoes de pagamento em NFC-eGO autorizada, garantindo adequacao a NT 2026.006.
+* [ODSML-36866](http://odoo.tecnospeed.local/odoo/project/40/tasks/36866) - NT 2026.008 - Adequado o componente NFCeGO aos campos de valor liquido e a composicao dos valores previstos na NT 2026.008, preservando as informacoes fornecidas pelo cliente.
+
+
+**Novidades v2.1.0.2**
 * [ODSML-35054](http://odoo.tecnospeed.local/odoo/project/40/tasks/35054) - Conversao dos campos no JSON nao sendo feita - Completa ICMS monofasico (02/15/53/61), suporte a sufixos de grupo (_ICMS10, _PISAliq, _IPITrib) e ajuste na geracao do XML conforme XSD
 * [ODSML-34856](http://odoo.tecnospeed.local/odoo/project/40/tasks/34856) - Corrigida a impressao das informacoes complementares (InfCpl) na DANFCe gerada pelo Componente NFCe Linux
 * [ODSML-28701](http://odoo.tecnospeed.local/odoo/project/40/tasks/28701) - NT 2025.002 - Compatibilizacao com as PLs 010c, 010d, 010e e 010f e suporte a CNPJ alfanumerico
